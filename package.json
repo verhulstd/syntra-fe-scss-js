@@ -13,7 +13,7 @@
     "clean": "rm -r ./build/",
     "sass-prod": "sass ./src/css/style.scss build/css/style.css --no-source-map --style=compressed",
     "js-prod": "parcel build ./src/js/index.js --out-dir ./build/js --out-file bundle.js  --no-source-maps",
-    "deploy": "surge . --domain https://syntra-david-007.surge.sh"
+    "deploy": "surge . --domain https://xxx-yyy-zzz.surge.sh"
   },
   "keywords": [],
   "author": "",

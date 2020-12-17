@@ -24,3 +24,9 @@ npm i -g live-server
 # run all commands sequential or paralel
 
 npm i -g npm-run-all
+
+# also use surge for deployment
+
+npm i -g surge
+
+OPGELET!!! => domein wijzigen
