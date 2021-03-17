@@ -3,8 +3,6 @@
 @use "./base/fonts";
 @use "./base/mixins" as *;
 
-@import "../../icons/style";
-
 body {
   background-color: $pink;
 }
