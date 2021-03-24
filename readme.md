@@ -2,9 +2,10 @@
 
 1. md myfolder
 2. cd myfolder
-3. git clone https://github.com/verhulstd/syntra-fe-scss-js.git .
-4. npm i
-5. npm start
+3. code .
+4. git clone https://github.com/verhulstd/syntra-fe-scss-js.git .
+5. npm i
+6. npm start
 
 # build project
 
